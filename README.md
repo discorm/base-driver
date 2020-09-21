@@ -2,6 +2,9 @@
 
 [![CI status](https://github.com/discorm/base-driver/workflows/ci/badge.svg)](https://github.com/discorm/base-driver/actions?query=workflow%3Aci+branch%3Amaster)
 [![Coverage Status](https://coveralls.io/repos/discorm/base-driver/badge.png)](https://coveralls.io/r/discorm/base-driver)
+[![npm package](https://img.shields.io/npm/v/@disco/base-driver)](https://npmjs.com/package/@disco/base-driver)
+[![Dependencies](https://img.shields.io/david/discorm/base-driver)](https://david-dm.org/discorm/base-driver)
+[![MIT License](https://img.shields.io/npm/l/@disco/base-driver)](./LICENSE)
 
 This is the base driver for disco which database-specific drivers
 should derive from. It provides a large and friendly API surface
@@ -158,7 +161,3 @@ There are several async hook methods that can be overridden to trigger things be
 - `afterUpdate`
 - `afterRemove`
 - `afterValidate`
-
-## License
-
-[MIT](./LICENSE)
