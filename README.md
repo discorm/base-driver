@@ -1,6 +1,6 @@
 # @disco/base-driver
 
-[![CI status](https://github.com/discorm/base-driver/workflows/ci/badge.svg)](https://github.com/discorm/base-driver/actions?query=workflow%3ABuild+branch%3Amaster)
+[![CI status](https://github.com/discorm/base-driver/workflows/ci/badge.svg)](https://github.com/discorm/base-driver/actions?query=workflow%3Aci+branch%3Amaster)
 [![Coverage Status](https://coveralls.io/repos/discorm/base-driver/badge.png)](https://coveralls.io/r/discorm/base-driver)
 
 This is the base driver for disco which database-specific drivers
